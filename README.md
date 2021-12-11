@@ -47,6 +47,8 @@ You can run the newly built app with `npm run start`. This uses [sirv](https://g
 ## Aditional content:
 
 Svelte Navigator documentation: https://github.com/mefechoel/svelte-navigator
+
 Sass: https://sass-lang.com/
+
 Svelte i18n: https://github.com/kaisermann/svelte-i18n
 
